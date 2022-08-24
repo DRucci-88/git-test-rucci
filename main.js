@@ -17,3 +17,4 @@ console.log('feature A');
 
 console.log('conflict merge from feature B');
 
+console.log('conflict merge from feature B 1');
