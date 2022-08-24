@@ -14,3 +14,6 @@ console.log('10');
 console.log('11');
 
 console.log('feature A');
+
+console.log('conflict merge from feature B');
+
