@@ -8,4 +8,5 @@ console.log('6');
 
 console.log('fitur dari development');
 
+console.log('Ada fitur dari B');
 console.log('Ada fitur dari A');
