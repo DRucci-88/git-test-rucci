@@ -14,3 +14,5 @@ console.log('10');
 console.log('11');
 
 console.log('Feature B');
+
+console.log('fast forward');
