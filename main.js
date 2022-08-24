@@ -18,3 +18,7 @@ console.log('feature A');
 console.log('conflict merge from feature B');
 
 console.log('conflict merge from feature B 1');
+
+console.log('fast forward');
+
+console.log('fast forward 11');
